@@ -1,7 +1,7 @@
-21, engineer | self-proclaimed polymath. building things  
+21, engineer | self-proclaimed polymath. building things.
 
 
-currently building Whisky: onchain, provably fair gaming protocol on solana:<br>
+checkout <br/>
 ↳ [whisky.casino 🥃](https://whisky.casino)
 
 
