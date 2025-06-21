@@ -1,5 +1,8 @@
 21, engineer | self-proclaimed polymath. building things  
-sarthakkapila1@gmail.com
 
-Check out:<br>
-↳ https://whisky.casino
+
+currently building Whisky: onchain, provably fair gaming protocol on solana:<br>
+↳ [whisky.casino 🥃](https://whisky.casino)
+
+
+contact: sarthakkapila1@gmail.com
