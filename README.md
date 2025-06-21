@@ -1,5 +1,5 @@
-21, engineer · self-proclaimed polymath · building things  
-✉️ sarthakkapila1@gmail.com
+21, engineer | self-proclaimed polymath. building things  
+✉ sarthakkapila1@gmail.com
 
-Building
+Check out:
 ↳ https://whisky.casino
