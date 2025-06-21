@@ -1,4 +1,4 @@
-21, engineer | wannabe polymath. building things
+21, engineer | self proclaimed polymath. building things
 
 
 
