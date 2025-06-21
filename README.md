@@ -2,9 +2,4 @@
 
 
 
-
-
-
-- [X](https://x.com/0xsarthakk)
-- sarthakkapila1@gmail.com
-- https://sarthakkapila.com/
+sarthakkapila1@gmail.com
