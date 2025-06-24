@@ -3,4 +3,4 @@
 currently building an open source DefiGamble protocol:<br>
 [whisky.casino](https://www.whisky.casino/)
 
-contact: sarthakkapila1@gmail.com
+✉️ sarthakkapila1@gmail.com
